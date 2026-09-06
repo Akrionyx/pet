@@ -1,0 +1,17 @@
+{
+  "name": "Pip",
+  "short_name": "Pip",
+  "description": "A small pet, waiting for you.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3E3CB",
+  "theme_color": "#F3E3CB",
+  "icons": [
+    {
+      "src": "assets/pip-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
